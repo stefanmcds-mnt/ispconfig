@@ -1,5 +1,6 @@
 {
     "name": "stefanmcds-mnt/ispconfig",
+    "type": "package",
     "description": "ISPConfig API",
     "license": "MIT",
     "authors": [
